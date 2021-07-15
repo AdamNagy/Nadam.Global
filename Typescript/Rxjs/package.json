@@ -34,7 +34,7 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "popper.js": "^1.15.0",
     "rxjs": "^6.5.4",
     "rxjs-compat": "^6.5.4",
